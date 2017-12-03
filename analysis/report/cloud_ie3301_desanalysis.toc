@@ -1,0 +1,20 @@
+\select@language {english}
+\contentsline {section}{Introduction}{2}
+\contentsline {section}{Data}{2}
+\contentsline {subsection}{Set One}{2}
+\contentsline {subsection}{Set Two}{2}
+\contentsline {section}{Descriptive Analysis}{3}
+\contentsline {subsection}{Set One}{3}
+\contentsline {subsection}{Set Two}{4}
+\contentsline {section}{Appendix}{5}
+\contentsline {subsection}{I - Dataset: One}{5}
+\contentsline {subsection}{II - Dataset: Two}{5}
+\contentsline {subsection}{III - Tables}{5}
+\contentsline {subsubsection}{A - Set One: Frequency table}{5}
+\contentsline {subsubsection}{B - Set Two: Frequency table}{6}
+\contentsline {subsection}{IV - Code}{6}
+\contentsline {subsubsection}{A - Descriptive Analysis}{6}
+\contentsline {subsubsection}{B - Data Processing: Set One}{8}
+\contentsline {subsubsection}{C - Data Processing: Set Two}{8}
+\contentsline {subsection}{V - Equipment Used}{10}
+\contentsline {section}{References}{11}
